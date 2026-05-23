@@ -1,51 +1,39 @@
-# 👋 Hello, I'm Rahma Ben Seghaier
-### Senior Flutter Developer | Full Stack Engineer | Technical Trainer
+# Hey there, I'm Rahma! 👋
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Rahma%20Ben%20Seghaier&fontSize=50&animation=fadeIn)
+### 📱 Flutter Software Engineer & ☕ Full-Stack Java Developer
 
----
-
-### 🚀 À propos de moi
-Développeuse passionnée avec une solide expertise dans la création d'applications mobiles multiplateformes performantes. Spécialisée en **Clean Architecture** et en gestion d'état complexe (**Bloc**, **Riverpod**).
-
-* 📱 **Mobile Expert**: +25% de performance UI sur des applications E-commerce.
-* ⚙️ **Full Stack**: Maîtrise de l'écosystème Spring Boot, Node.js et Angular.
-* 🎓 **Formatrice**: Conception de programmes techniques (Python/Mobile).
+Passionate Software Engineer with over 3 years of professional experience building high-performance, beautiful mobile applications and robust, scalable backend systems. I specialize in turning complex architectural designs into seamless end-to-end user experiences.
 
 ---
 
-### 🛠️ Stack Technique
-**Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🛠️ Tech Stack & Ecosystem
 
-**Backend & Database**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### 📱 Frontend & Mobile
+*   **Languages & Frameworks:** Dart, Flutter
+*   **Architecture & Patterns:** Clean Architecture, SOLID Principles
+*   **State Management:** BLoC / Cubit
+*   **Core Skills:** REST API Consumption, Custom UI/UX, Local Data Persistence, Push Notifications
 
-**Outils & DevOps**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
+### ☕ Backend & Architecture
+*   **Languages & Core Frameworks:** Java, Spring Boot, Python, Node.js / Express
+*   **Enterprise Ecosystem:** Spring Data JPA, Spring Security, Microservices Architecture
+*   **Databases & Caching:** SQL (MySQL/PostgreSQL), Redis Caching, Connection Pooling (HikariCP)
+*   **DevOps & Tools:** Git, GitHub, RESTful API Design
 
 ---
 
-### 📊 Statistiques GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Rynd2025&show_icons=true&theme=radical&hide_border=true" alt="Stats de Rahma" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rynd2025&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
-</p>
+## 🌐 Connect with Me
+
+### 💻 Technical & Professional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-ben-seghaier/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+
+### 🎙️ Content & Mindset
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rynd2021)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sg_rourou)
 
 ---
 
-### 🤝 Contactez-moi
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahma-ben-seghaier)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmabenseghaier@gmail.com)
+## 📊 GitHub Stats
 
----
-*“Bâtir des solutions scalables avec un code propre et maintenable.”*
+⚡ **Fun Fact:** I love combining strong engineering principles like Clean Architecture with creative fields—whether it's crafting content about growth and mindset or building fluid, interactive UIs!
