@@ -1,7 +1,7 @@
 # Hey there, I'm Rahma! 👋 
 
 ### 🚀 IT Business Engineer & Full-Stack Mobile Developer
-[cite_start]A hybrid Software Engineer and Technical Sales specialist with over 5 years of dual expertise spanning cross-platform mobile engineering, enterprise web backends, and B2B tech sales. [cite_start]I bridge the gap between complex industrial workflows and high-performance, clean code blueprints[cite: 7].
+    A hybrid Software Engineer and Technical Sales specialist with over 5 years of dual expertise spanning cross-platform mobile engineering, enterprise web backends, and B2B tech sales. [cite_start]I bridge the gap between complex industrial workflows and high-performance, clean code blueprints[cite: 7].
 
 ---
 
